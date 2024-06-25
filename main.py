@@ -1,5 +1,12 @@
 from os import system
+from funciones import *
 system("cls")
+
+#198
+asientos_ocupados = []
+asientos_disponibles = []
+asientos = []
+
 
 while True:
     print('''
